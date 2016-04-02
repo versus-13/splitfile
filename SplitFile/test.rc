@@ -1,0 +1,3 @@
+#include "version.h"
+
+genericpluginrc(PLUGIN_BUILD, PLUGIN_DESC, PLUGIN_NAME, PLUGIN_FILENAME)

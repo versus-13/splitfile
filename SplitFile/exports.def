@@ -1,0 +1,8 @@
+LIBRARY        SpritFile
+; DESCRIPTION    'Split File Far Plugin'
+EXPORTS
+	GetGlobalInfoW
+	SetStartupInfoW
+	ConfigureW
+	GetPluginInfoW
+	OpenW
